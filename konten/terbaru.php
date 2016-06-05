@@ -31,10 +31,9 @@
 						</div>
 						<div class="blog-grids">
 							<div class="blog-grid-left">
-								<a href="berita_rashford.html"><img src="images/rashford.jpg" class="img-responsive" alt=""/></a>
+								<a href="berita_rashford.html""><img src="images/rashford.jpg" class="img-responsive" alt=""/></a>
 							</div>
 							<div class="blog-grid-right">
-								
 								<h5><a href="berita_rashford.html">MU Pagari Rasford 4 Tahun</a> </h5>
 							</div>
 							<div class="clearfix"> </div>
